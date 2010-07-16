@@ -1,6 +1,6 @@
 # A tweak which implements the SBIcon subclass
 TWEAK_NAME = logos_subclass
-logos_subclass_OBJCC_FILES = Tweak.mm
+logos_subclass_FILES = Tweak.xm
 logos_subclass_FRAMEWORKS = UIKit
 
 # An application bundle that uses that SBIcon subclass
