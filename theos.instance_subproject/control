@@ -1,0 +1,9 @@
+Package: net.howett.theos.instance_subproject
+Name: theos.instance_subproject
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Another theos example.
+Maintainer: Dustin L. Howett <dustin@howett.net>
+Author: Dustin L. Howett <dustin@howett.net>
+Section: Tweaks

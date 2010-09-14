@@ -1,0 +1,2 @@
+Yes, this can be done by having them share a source file.
+The point is, the subproject is like a static library.
