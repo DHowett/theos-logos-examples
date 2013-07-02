@@ -1,1 +1,0 @@
-logos.uiapplicationdelegate is an example of how to hook methods on a class whose identity is not known until runtime.
